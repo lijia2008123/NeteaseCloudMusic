@@ -1,0 +1,100 @@
+{
+  "id": "3516838",
+  "name": "NeteaseCloudMusic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "507831",
+      "name": "群蜂用户",
+      "font_class": "qunfengyonghu",
+      "unicode": "e7c5",
+      "unicode_decimal": 59333
+    },
+    {
+      "icon_id": "3262887",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3979426",
+      "name": "音乐娱乐",
+      "font_class": "yinleyule",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "913743",
+      "name": "更多",
+      "font_class": "chakantiezigengduo",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "1240766",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1727447",
+      "name": "216更多-竖向",
+      "font_class": "gengduo-shuxiang",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "2076218",
+      "name": "播放2",
+      "font_class": "bofang",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    },
+    {
+      "icon_id": "12753449",
+      "name": "用户管理",
+      "font_class": "yonghuguanli_huaban",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "17510969",
+      "name": "netease-cloud-music-fill",
+      "font_class": "netease-cloud-music-fill",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "18170145",
+      "name": "麦克风,声音,录音,录制声音",
+      "font_class": "record-sound",
+      "unicode": "e971",
+      "unicode_decimal": 59761
+    },
+    {
+      "icon_id": "20313967",
+      "name": "重启",
+      "font_class": "zhongqi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "23261463",
+      "name": "更多",
+      "font_class": "gengduo1",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "24697220",
+      "name": "netease-cloud-music-line",
+      "font_class": "netease-cloud-music-line",
+      "unicode": "e932",
+      "unicode_decimal": 59698
+    }
+  ]
+}
